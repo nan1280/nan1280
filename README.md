@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nan1280
+- 👋 Hi, I’m nan1280
 - 👀 I’m interested in Java, computer games and so on.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Java SE
 - 📫 You can sent me a e-mail at 1071195446@qq.com
 
 <!---
